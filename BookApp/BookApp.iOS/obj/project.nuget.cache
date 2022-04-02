@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/qbMkkqPyEQKnE6h0Scb+zdloCyR2t3LStTUQtT48QygX6xc0a2W63C8J7VzcgTxOAqq7H4D52UYtDS3BTfxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dinitha\\Desktop\\MyProjects\\BookApp\\BookApp\\BookApp.iOS\\BookApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dinitha\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

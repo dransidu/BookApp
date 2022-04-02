@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d6DEmKozCbD2SPyNZ66d91ro8NEtzQJQOKXf/Uurj0pcGVuw1XxX5oRbphMO3gv/YG23fc5yw9pgj7Z6ByiQEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dinitha\\Desktop\\MyProjects\\BookApp\\BookApp\\BookApp\\BookApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dinitha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dinitha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dinitha\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
